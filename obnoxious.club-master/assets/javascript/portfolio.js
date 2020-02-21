@@ -42,22 +42,22 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
         var links = [
             {
                 name: 'AtomicFN',
-                link: 'https://www.youtube.com/channel/UCJJDnmZ0xdZZKTqwvPdT67A?view_as=subscriber'
+                link: 'youtube.com/channel/UCJJDnmZ0xdZZKTqwvPdT67A?view_as=subscriber'
             },
                 
             {
                 name: '.Drip',
-                link: 'https://atomicsclub.herokuapp.com/index.html'
+                link: 'atomicsclub.herokuapp.com/index.html'
             },
                 
             {
                 name: 'Zebratic',
-                link: 'https://www.youtube.com/channel/UCmgYRIX_KddbihO25YYV9Tw'
+                link: 'youtube.com/channel/UCmgYRIX_KddbihO25YYV9Tw'
             },
 
             {
                 name: 'Meta Btw',
-                link: 'https://atomicsclub.herokuapp.com/index.html'
+                link: 'atomicsclub.herokuapp.com/index.html'
             },
 
         ];
