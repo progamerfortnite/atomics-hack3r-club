@@ -54,6 +54,11 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
                 name: 'Zebratic',
                 link: 'youtube.com/channel/UCmgYRIX_KddbihO25YYV9Tw'
             },
+            
+            {
+                name: 'RaZeR',
+                link: 'atomicsclub.herokuapp.com/index.html'
+            },
 
             {
                 name: 'Meta Btw',
