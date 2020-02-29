@@ -35,6 +35,11 @@
                 name: 'RaZeR',
                 link: 'atomicsclub.herokuapp.com/index.html'
             },
+            },
+                        {
+                name: 'RhysJ',
+                link: 'atomicsclub.herokuapp.com/index.html'
+            },
 
         ];
          
