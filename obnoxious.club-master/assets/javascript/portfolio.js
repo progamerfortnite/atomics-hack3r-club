@@ -13,35 +13,35 @@
     $(document).ready(function () {
         var links = [
             {
-                name: 'AtomicFN',
+                name: 'AtomicFN     ',
                 link: 'youtube.com/channel/UCJJDnmZ0xdZZKTqwvPdT67A?view_as=subscriber'
             },
                 
             {
-                name: '.Drip',
+                name: '.Drip    ',
                 link: 'atomicsclub.herokuapp.com/index.html'
             },
                 
             {
-                name: 'Zebratic',
+                name: 'Zebratic     ',
                 link: 'youtube.com/channel/UCmgYRIX_KddbihO25YYV9Tw'
             },
 
             {
-                name: 'Meta Btw',
+                name: 'Meta Btw     ',
                 link: 'atomicsclub.herokuapp.com/index.html'
             },
                         {
-                name: 'RaZeR',
+                name: 'RaZeR    ',
                 link: 'atomicsclub.herokuapp.com/index.html'
             },
             
             {
-                name: 'RhysJ',
+                name: 'RhysJ    ',
                 link: 'youtube.com/channel/UCmgYRIX_KddbihO25YYV9Tw'
             },
             {
-                name: 'B4CK_Angel',
+                name: 'B4CK_Angel   ',
                 link: 'atomics-hack3r-club.herokuapp.com/index.html'
             },
 
