@@ -54,15 +54,7 @@
 
             link = $('#marquee').children('a').last();
                 
-            if (i != links.length - 1) 
-                $('#marquee').append(' <img class="emoticon" src="assets/others/mgh_17.png"> ');
         }
-
-        if (window.mobileAndTabletCheck()) {
-            $("#background").replaceWith('<div id="background" style="background-image: url(https://obnoxious.club/assets/images/mobile-background.jpg);"></div>');
-
-            app.shouldIgnoreVideo = true;
-        } 
 
         app.titleChanger();
         app.iconChanger([
