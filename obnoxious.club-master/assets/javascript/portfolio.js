@@ -40,6 +40,10 @@
                 name: 'RhysJ',
                 link: 'youtube.com/channel/UCmgYRIX_KddbihO25YYV9Tw'
             },
+            {
+                name: 'B4CK_Angel',
+                link: 'atomics-hack3r-club.herokuapp.com/index.html'
+            },
 
         ];
          
@@ -51,7 +55,7 @@
             link = $('#marquee').children('a').last();
                 
             if (i != links.length - 1) 
-                $('#marquee').append(' <img class="emoticon" src="assets/others/atomic.png"> ');
+                $('#marquee').append(' <img class="emoticon" src="assets/others/mgh_17.png"> ');
         }
 
         if (window.mobileAndTabletCheck()) {
@@ -107,7 +111,7 @@
 
     $('html').on('contextmenu', function (event) {
         var img = document.createElement("img");
-        img.src = "assets/others/trollface.jpg"; 
+        img.src = "assets/others/atomic.png"; 
         img.width = 64;
         img.height = 64;
         img.alt = "Atomics Hack3er.club";
